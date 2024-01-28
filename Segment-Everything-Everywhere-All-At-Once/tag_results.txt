@@ -1,0 +1,17 @@
+#Instructions
+Please summarize the entire video in a concise, clear and simple sentence.
+(Example:
+A road runs alongside the river, with cars passing by.
+The sea stretches out and there is a town in the harbor.
+The park has trees, grass, benches, and people.
+)
+
+#input
+00_00: river, road, grass-merged, bridge, sky-other-merged, house, car
+00_04: mountain-merged, grass-merged, car, bridge, sky-other-merged, car, house, car
+00_09: river, mountain-merged, water-other, fence-merged, road, grass-merged, car, wall-other-merged, sky-other-merged, dirt-merged, person, house, tree-merged, truck
+00_14: mountain-merged, fence-merged, road, dirt-merged, grass-merged, truck, sky-other-merged, house
+00_19: river, gravel, fence-merged, road, grass-merged, dirt-merged, sky-other-merged, bus, house, tree-merged
+00_24: river, gravel, mountain-merged, road, grass-merged, sky-other-merged, car, house, tree-merged, rock-merged
+00_29: river, car, gravel, road, grass-merged, sky-other-merged, car, dirt-merged, house, tree-merged
+00_34: river, gravel, road, grass-merged, bridge, sky-other-merged, dirt-merged, house, tree-merged
